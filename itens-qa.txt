@@ -1,1 +1,3 @@
 Lista de Itens de Qualidade a serem comentadas
+Caixa Branca - teste interno
+Caixa Preta - teste externo
